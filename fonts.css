@@ -1,0 +1,11 @@
+script{
+	font-family: 'Shorif Ador Bijoy52';
+}
+@font-face {
+	font-family: 'Conv_Shorif Ador Bijoy52';
+	src: url('fonts/Shorif Ador Bijoy52.eot');
+	src: local('☺'), url('fonts/Shorif Ador Bijoy52.woff') format('woff'), url('fonts/Shorif Ador Bijoy52.ttf') format('truetype'), url('fonts/Shorif Ador Bijoy52.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
